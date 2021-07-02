@@ -1,0 +1,42 @@
+*{margin: 0; padding: 0; }
+
+h1{
+    color: rgb(236, 234, 232);
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: mediumaquamarine;
+}
+
+
+.blog{
+    background-color: rgb(141, 159, 192);
+    border: 5px solid rgb(233, 73, 241);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    border-radius: 20px;
+    margin: 20px;
+    margin-top: 0;
+    position: relative;
+    overflow: hidden;
+}
+img{
+    width: 50%;
+    border-radius: 20px;
+    position: relative;
+    margin: 10px;
+    left: 144px;
+    display: block;
+}
+h3{
+    text-align: center;
+    margin: 10px;
+}
+.author-name{
+    color: mediumvioletred;
+}
+.coxbazar{
+    overflow: hidden;
+
+}
